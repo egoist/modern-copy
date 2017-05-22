@@ -1,0 +1,27 @@
+{
+  "name": "modern-copy",
+  "version": "0.0.0",
+  "description": "Precompiled sindresorhus/copy-text-to-clipboard",
+  "repository": {
+    "url": "egoist/modern-copy",
+    "type": "git"
+  },
+  "module": "dist/modern-copy.es.js",
+  "main": "dist/modern-copy.js",
+  "main:minified": "dist/modern-copy.min.js",
+  "production:main": "dist/modern-copy.min.js",
+  "files": [
+    "dist"
+  ],
+  "scripts": {
+    "test": "echo 'no tests!' && npm run build",
+    "build": "bili --format es --format umd --resolve --module-name mcopy --compress"
+  },
+  "author": "egoist <0x142857@gmail.com>",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "bili": "^0.15.3",
+    "copy-text-to-clipboard": "^1.0.0"
+  }
+}
