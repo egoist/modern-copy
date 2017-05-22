@@ -19,7 +19,7 @@ Direct use it in your build process, without any extra config:
 ```js
 import mcopy from 'modern-copy'
 
-button.addEventListerner('click', () => {
+button.addEventListener('click', () => {
   mcopy('👌🙋')
   // Must be called in response to a user gesture event, like click or keyup.
 })
