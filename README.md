@@ -29,9 +29,6 @@ Or CDN version, access it via `window.mcopy`:
 
 ```html
 <script src="https://unpkg.com/modern-copy"></script>
-<script>
-  mcopy('deal with it 😎')
-</script>
 ```
 
 ## Contributing
