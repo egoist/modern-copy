@@ -2,6 +2,8 @@
 
 [![NPM version](https://img.shields.io/npm/v/modern-copy.svg?style=flat)](https://npmjs.com/package/modern-copy) [![NPM downloads](https://img.shields.io/npm/dm/modern-copy.svg?style=flat)](https://npmjs.com/package/modern-copy) [![donate](https://img.shields.io/badge/$-donate-ff69b4.svg?maxAge=2592000&style=flat)](https://github.com/egoist/donate)
 
+> A precompiled version of [sindresorhus/copy-text-to-clipboard](https://github.com/sindresorhus/copy-text-to-clipboard), clipboard in modern browsers.
+
 ## Install
 
 ```bash
