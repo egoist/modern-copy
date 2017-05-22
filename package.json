@@ -1,6 +1,6 @@
 {
   "name": "modern-copy",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Precompiled sindresorhus/copy-text-to-clipboard",
   "repository": {
     "url": "egoist/modern-copy",
